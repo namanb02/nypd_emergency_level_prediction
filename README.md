@@ -1,4 +1,5 @@
-# nypd_emergency_level_prediction
+# Predictive Triage for NYC Motor Vehicle Crashes: A Data-Driven Approach to Emergency Response Prioritization
+
 This repository shows how to train a supervised ML model, which will predict the degree of emergency of a crash in case of a collision event.
 
 USAGE:
